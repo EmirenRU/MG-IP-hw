@@ -1,1 +1,1 @@
-# MG-IP-hw
+# Machine Graphics & Image Processing
